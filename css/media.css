@@ -1,0 +1,495 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+
+	.banner{
+		padding-top: 20px;
+	}
+	/*navbar start*/
+	.menu ul li a{
+		font-size: 15px;
+		color: #fff !important;
+		padding: 0  !important;
+		text-align:  right;
+	}
+	/*navbar end*/
+	/*slider start*/
+	.slider{
+		padding: 30px 0;
+	}
+	.cid{
+		bottom: -44px;
+	}
+	.cid li{
+		width: 7px;
+		height:7px;
+	}
+	.cid-text h2{
+		font-size: 14px;
+		margin-bottom: 15px;
+	}
+	.cid-text h1{
+		font-size: 22px;
+		margin-bottom: 17px;
+	}
+	.cid-text button {
+		padding: 3px 20px;
+		font-size: 11px;
+	}
+	/*slider end*/
+    /*blog strt*/
+	.blog {
+		margin-top: 50px;
+		margin-bottom: 50px;
+	}
+	.common-text{
+		text-align: center;
+	}
+	.common-text h1 {
+		font-size: 55px;
+	}
+	.common-text span {
+		font-size: 46px;
+	}
+	.common-text p {
+		font-size: 16px;
+		margin-top: 10px;
+	}
+	/*blog2 start*/
+	.blog2 {
+		padding-top: 50px;
+		padding-bottom: 75px;
+	}
+	 /*features start*/
+    .features{
+    margin-top: 50px;
+    margin-bottom: 60px;
+    }
+    .s_i {
+    margin-top: 25px;
+    }
+    .circle {
+        width: 35px;
+        height: 35px;
+    }
+    .circle-icon {
+        font-size: 20px;
+    }
+    .circle-content h1{
+    	font-size: 19px;
+    }
+    .circle-content p {
+        font-size: 17px;
+    }
+
+    /*features end*/
+    /*awesome start*/
+    .awesome {
+    background-color: #fafafa;
+    padding-top: 50px;
+    padding-bottom: 60px;
+    }
+    .title h1 {
+        font-size: 37px;
+    }
+    .title p {
+        font-size: 16px;
+    }
+    .circle2 img {
+       width: 150px;
+       height: 150px;
+    }
+    .talkbubble1 {
+    height: 120px;
+    margin-left: 10px;
+    margin-top: 16px;
+    }
+    .talkbubble1:after {
+        top: 45px;
+        border-right: 18px solid white;
+    }
+    .talkbubble1 p {
+        font-size: 16px;
+    }
+    .talkbubble1 span {
+        font-size: 14px;
+    }
+    .img-2{
+    	width: 150px;
+       height: 150px;
+       margin-left: 128px;
+    }
+    .talkbubble2 {
+    height: 120px;
+    margin-right: 10px;
+    margin-top: 16px;
+    }
+    .talkbubble2:after {
+        top: 45px;
+        border-left: 18px solid white;
+    }
+    .talkbubble2 p {
+        font-size: 16px;
+    }
+    .talkbubble2 span {
+        font-size: 14px;
+    }
+    
+    /*awesome end*/
+    /*brand start*/
+    .brand {
+        margin-top: 20px;
+        margin-bottom: 30px;
+    }
+     .brand-img{
+    	margin-top: 20px !important;
+    } 
+
+    /*brand end*/
+     /*amazing start*/
+    .amazing {
+        padding: 50px 0;
+    }
+    .s-i-2 {
+    margin-top: 30px;
+   }
+    /*amazing end*/
+     /*blue start*/
+     .blue {
+        padding-top: 40px;
+    }
+     .blue-text{
+    	text-align: center;
+    }
+    .blue-text h1 {
+        font-size: 50px;
+    }
+    .blue-text p {
+        font-size: 16px;
+        margin-bottom: 20px;
+    }
+    .contact-form {
+    	margin-top: 20px;
+        margin-bottom: 30px;
+    }
+    .contact-form p{
+    	font-size: 16px;
+    }
+    .contact-form span{
+    	margin-right: 10px;
+    }
+    .your-name {
+    padding: 8px 0;
+    margin-bottom: 10px;
+    }
+    .email {
+        padding: 8px 0;
+        margin-bottom: 10px;
+    }
+      .massage{
+    	margin-bottom: 10px;
+    }
+    /*blue end*/
+   
+}
+
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+	/*navbar start*/
+	.menu ul li a{
+		font-size: 15px;
+		color: #fff !important;
+		padding: 0  !important;
+		text-align:  right;
+	}
+	/*navbar end*/
+	/*slider start*/
+	.slider{
+		padding: 50px 0;
+	}
+	.cid{
+		bottom: -59px;
+	}
+	.cid li{
+		width: 12px;
+		height:12px;
+	}
+	.cid-text h2{
+		font-size: 18px;
+		margin-bottom: 20px;
+	}
+	.cid-text h1{
+		font-size: 36px;
+		margin-bottom: 36px;
+	}
+	.cid-text button {
+		padding: 5px 21px;
+	}
+	/*slider end*/
+	/*blog strt*/
+	.blog {
+		margin-top: 80px;
+		margin-bottom: 80px;
+	}
+	.common-text{
+		text-align: center;
+	}
+	.common-text h1 {
+		font-size: 55px;
+	}
+	.common-text span {
+		font-size: 55px;
+	}
+	.common-text p {
+		margin-top: 10px;
+	}
+	/*blog2 start*/
+	.blog2 {
+		padding-top: 80px;
+		padding-bottom: 90px;
+	}
+	 /*features start*/
+    .features{
+    margin-top: 70px;
+    margin-bottom: 60px;
+    }
+    .s_i {
+    margin-top: 25px;
+    }
+    .circle {
+        width: 35px;
+        height: 35px;
+    }
+    .circle-icon {
+        font-size: 20px;
+    }
+    .circle-content h1{
+    	font-size: 19px;
+    }
+    .circle-content p {
+        font-size: 17px;
+    }
+
+    /*features end*/
+    /*awesome start*/
+    .awesome {
+    padding-top: 65px;
+    padding-bottom: 75px;
+    }
+    .title h1 {
+        font-size: 50px;
+    }
+    .title p {
+        font-size: 20px;    }
+    .circle2 img {
+    width: 118px;
+    height: 118px;
+    }
+    .talkbubble1 {
+    height: 143px;
+    margin-left: 19px;
+    }
+    .talkbubble1:after {
+    top: 56px;
+    }
+    .talkbubble1 p {
+        font-size: 18px;
+    }
+    .talkbubble1 span {
+    font-size: 17px;
+    }
+    .talkbubble2 {
+        height: 143px;
+        margin-right: 19px;
+    }
+        .talkbubble2:after {
+        top: 56px;
+        }
+        .talkbubble2 p {
+            font-size: 18px;
+        }
+        .talkbubble2 span {
+        font-size: 17px;
+    }
+    /*awesome end*/
+    /*brand start*/
+    .brand {
+        margin-top: 30px;
+        margin-bottom: 20px;
+    }
+   /*brand end*/
+    /*amazing start*/
+    .amazing {
+        padding: 50px 0;
+    }
+    .s-i-2 {
+    margin-top: 30px;
+   }
+    /*amazing end*/
+    /*blue start*/
+     .blue {
+        padding-top: 45px;
+    }
+     .blue-text{
+    	text-align: center;
+    }
+    .blue-text h1 {
+        font-size: 50px;
+    }
+    .blue-text p {
+        font-size: 17px;
+    }
+    .contact-form {
+    	margin-top: 20px;
+        margin-bottom: 40px;
+    }
+    .your-name {
+    padding: 8px 0;
+    margin-bottom: 10px;
+    }
+    .email {
+        padding: 8px 0;
+        margin-bottom: 10px;
+    }
+    .massage{
+    	margin-bottom: 10px;
+    }
+    /*blue end*/
+
+
+}
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+	/*navbar start*/
+	.menu ul li a{
+		font-size: 15px;
+		color: #fff !important;
+		padding: 0  !important;
+		text-align:  right;
+	}
+	/*navbar end*/
+	/*slider start*/
+	.slider{
+		padding: 70px 0;
+	}
+	.cid{
+		bottom: -70px;
+	}
+	.cid-text h2{
+		font-size: 23px;
+		margin-bottom: 28px;
+	}
+	.cid-text h1{
+		font-size: 50px;
+		margin-bottom: 40px;
+	}
+	.cid-text button {
+		padding: 15px 50px;
+	}
+	/*slider end*/
+	/*blog start*/
+	.blog{
+		margin-top: 90px;
+		margin-bottom: 90px;
+	}
+	.common-text h1{
+		font-size: 50px;
+	}
+	.common-text span{
+		font-size: 50px;
+	}
+	.common-text p{
+		margin-top: 15px;
+	}
+
+	/*blog end*/
+	/*blog2 start*/
+	.blog2 {
+		background-color: #fafafa;
+		padding-top: 80px;
+		padding-bottom: 90px;
+	}
+	/*blog2 end*/
+    /*features start*/
+    .features{
+    margin-top: 90px;
+    margin-bottom: 80px;
+    }
+   
+    /*features end*/
+    /*awesome start*/
+    .awesome{
+       padding-top: 75px;
+       padding-bottom: 85px;
+    }
+    .talkbubble1 {
+        margin-left: 23px;
+    }
+    .talkbubble1 p {
+        font-size: 22px;
+    }
+    .talkbubble1 span {
+    font-size: 18px;
+    }
+    .talkbubble2 {
+        margin-right: 23px;
+    }
+    .talkbubble2 p {
+        font-size: 22px;
+    }
+    .talkbubble2 span {
+    font-size: 18px;
+    }
+    /*awesome end*/
+    /*brand start*/
+    .brand {
+    margin-top: 40px;
+    margin-bottom: 30px;
+   }
+
+    /*brand end*/
+    /*amazing start*/
+    .amazing {
+        padding: 60px 0;
+    }
+    .s-i-2 {
+    margin-top: 40px;
+   }
+    /*amazing end*/
+    /*blue start*/
+    .blue {
+        padding-top: 60px;
+    }
+    .blue-text h1 {
+        font-size: 55px;
+    }
+    .blue-text p {
+        font-size: 16px;
+    }
+    .contact-single p{
+    	font-size: 15px;
+    }
+    .contact-single span{
+    	margin-right: 5px;
+    }
+    .contact-form {
+        margin-bottom: 50px;
+    }
+    .your-name {
+    padding: 8px 0;
+    margin-bottom: 15px;
+    }
+    .email {
+        padding: 8px 0;
+        margin-bottom: 15px;
+    }
+    /*blue end*/
+
+}
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+}
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+}
